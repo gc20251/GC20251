@@ -29,9 +29,9 @@ Deepening my AI skillset and shipping projects that put models to real work — 
 
 ###  Reach me
 
-- 💼 LinkedIn: {{https://www.linkedin.com/in/giancarlos-pagani/}}
-- 🌐 Portfolio: {{www.paganienterprises.com}}
-- ✉️ Email: {{developer@paganienterprises.com}}
+- 💼 LinkedIn: https://www.linkedin.com/in/giancarlos-pagani/
+- 🌐 Portfolio: www.paganienterprises.com
+- ✉️ Email: developer@paganienterprises.com
 
 ###  Off the keyboard
 
